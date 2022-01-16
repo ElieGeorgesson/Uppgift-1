@@ -1,0 +1,41 @@
+
+  * {
+    background-color: rgb(0, 0, 0);
+}
+  .Casestudy {
+    color: rgb(255, 255, 255);
+    letter-spacing: 0;
+    margin-left: 1100px;
+    margin-top: 0px;
+    min-height: 10px;
+    min-width: 20px;
+  }
+  
+  .om-mig {
+    color: rgb(253, 252, 252);
+    letter-spacing: 0;
+    margin-left: 900px;
+    margin-top: 30;
+    min-height: 100px;
+    min-width: 90px;
+  }
+  
+  .kontakta-mig {
+    color: rgb(255, 255, 255);
+    letter-spacing: 0;
+    margin-left: 780px;
+    margin-top: -100px;
+    min-height: 100px;
+    min-width: 90px;
+  }
+  .elie-georgesson-r {
+    color: white;
+    font-family: var(--font-family-roboto);
+   font-size: x-large;
+    font-weight: 700;
+    letter-spacing: 0;
+    min-height: 416px;
+    width: 772px;
+  }
+  
+  
